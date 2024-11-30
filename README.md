@@ -8,18 +8,14 @@ The Greenhouse Project is designed to help gardeners and farmers create a contro
 - **Climate Control:** Maintain ideal temperature and humidity levels.
 - **Watering System:** Automate irrigation based on soil moisture levels.
 
-## 🛠️ Setup
-1. **Greenhouse Construction**  
-   - Use materials such as glass, polycarbonate, or UV-treated plastic for structure.  
-   - Ensure proper ventilation and insulation.  
+##Components Used
+Arduino Uno (or compatible Arduino board)
+DHT11 Temperature and Humidity Sensor (measures temperature)
+Breadboard and Jumper wires (for connecting components)
+LEDs(White,Green)
+Water Pump
+5V Relay Module
 
-2. **Environmental Control**  
-   - Install basic tools like temparature and humidity sensors and soil moisture meters.  
-   - Use programmable thermostats and timers for temperature.  
-
-3. **Irrigation System**   
-   - Connect a water pump with a timer or manual control.
-   - 
 ## 💡 How It Works
 1. **Monitor:** Measure key metrics like temperature, humidity, and soil moisture.  
 2. **Adjust:** Modify watering, ventilation based on environmental data.  
