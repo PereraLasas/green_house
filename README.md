@@ -1,6 +1,7 @@
 #Greenhouse Project
 
 ##Overview
+
 The Greenhouse project is a smart system designed to monitor and control various environmental factors within a greenhouse. It helps ensure optimal conditions for plant growth by automating temperature regulation and soil moisture management. The system uses various sensors to gather environmental data and actuators to control devices like water pumps,soli moisture sensors,temparature and humidity sensors aiming to improve plant health while reducing human intervention.
 
 ##Key Features
