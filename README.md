@@ -1,9 +1,9 @@
-Greenhouse Project
+#Greenhouse Project
 
-Overview
+##Overview
 The Greenhouse project is a smart system designed to monitor and control various environmental factors within a greenhouse. It helps ensure optimal conditions for plant growth by automating temperature regulation and soil moisture management. The system uses various sensors to gather environmental data and actuators to control devices like water pumps,soli moisture sensors,temparature and humidity sensors aiming to improve plant health while reducing human intervention.
 
-Key Features
+##Key Features
 
 Temperature Monitoring:
 
@@ -15,7 +15,7 @@ Soil Moisturing:
 If the Soil Moisture Sensor is wet,then water pump is not working.
 If the Soil Moisture Sensor is dry,then water pump is working.
 
-Components Used
+##Components Used
 
 Microcontroller:
 
@@ -37,7 +37,7 @@ Other Components:
 LCD Display (16x2, for displaying real-time environmental data)
 Power Supply (5V for Arduino, 12V for actuators)
 
-Key Logic Breakdown
+##Key Logic Breakdown
 
 Temperature Monitoring:
 
@@ -57,7 +57,7 @@ Real-Time Display:
 The system uses an LCD display to show current environmental data like temperature, humidity, soil moisture, and light intensity. This provides real-time feedback for monitoring purposes.
 
 
-Circuit Diagram
+##Circuit Diagram
 
 DHT11 Temperature Sensor:
 
@@ -77,7 +77,7 @@ LCD Display:
 Connect Pin 6,7,8,9 to For displaying temp and humidity sensor data.
 
 
-Operation Summary
+##Operation Summary
 
 Temperature Monitoring:
 
@@ -91,7 +91,7 @@ Soil Moisture Control:
 
 When the soil moisture is below the set threshold, the water pump is triggered for irrigation.
 
-Troubleshooting
+##Troubleshooting
 
 System Not Starting:
 
