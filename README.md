@@ -112,3 +112,5 @@ The DHT11 sensor can sometimes give errors if the connection is loose, so ensure
 
     * Wiring: Ensure the I2C or parallel wiring is correctly connected between the Arduino and the LCD.
     * Address Check: If using an I2C LCD, verify that the correct I2C address is set in the code.
+ 
+    * Iam a gayan
